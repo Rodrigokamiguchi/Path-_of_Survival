@@ -42,7 +42,7 @@ Events occur when the player chooses to explore:
 3. The game ends when any attribute reaches zero.
 4. The total number of days survived is displayed at the end.
 
-##Detailed Actions
+## Detailed Actions
 1. Search for resources:
  . Gains 10 to 30 points of food and water.
 . Loses 10 points of energy.
