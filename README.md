@@ -4,14 +4,14 @@
 Path of Survival is a survival simulation game developed in Python. The primary goal is to survive as many days as possible by carefully managing your resources and making strategic decisions. Players need to balance attributes like food, water, energy, and health to avoid any of them reaching zero, which results in the end of the game.
 
 ## Requirements
-Python 3.8 or higher
-random library (native to Python)
+° Python 3.8 or higher
+° random library (native to Python)
 
 ## Player Attributes
-. Food: Essential for survival. Decreases over time and can be replenished by searching for resources or through positive events.
-. Water: Vital to keep the player alive. Like food, it is consumed daily and replenished through certain actions.
-. Health: Represents the player's well-being. It can be affected by negative events and recovered by resting.
-. Energy: Necessary to perform actions such as exploring and building. It can be recovered by resting.
+° Food: Essential for survival. Decreases over time and can be replenished by searching for resources or through positive events.
+° Water: Vital to keep the player alive. Like food, it is consumed daily and replenished through certain actions.
+° Health: Represents the player's well-being. It can be affected by negative events and recovered by resting.
+° Energy: Necessary to perform actions such as exploring and building. It can be recovered by resting.
 
 ## Game Rules
 . The player must manage all four attributes. If any of them reach zero, the game ends.
