@@ -60,9 +60,10 @@ Events occur when the player chooses to explore:
 ![image](https://github.com/user-attachments/assets/2e9f1d90-4551-4c5a-87d1-84369f708241)
 
 ## Credits
-Developer: [Rodrigo Kamiguchi] Graphics and Sound: Custom-created or sourced from open repositories (if applicable). Libraries Used: Python: https://www.python.org/ Pygame: https://www.pygame.org/
+Developer: [Rodrigo Kamiguchi] Graphics and Sound: Custom-created or sourced from open repositories (if applicable). Libraries Used: Python: https://www.python.org/
 
 ## License
 This game is open-source and distributed under the MIT License. You are free to modify, distribute, and use the game as long as proper credit is given to the original developer(s). The full text of the license can be found in the LICENSE file.
+
 ## Conclusion
 Path of Survival is a simple yet challenging game designed to test the player's ability to manage resources and make strategic decisions in a hostile environment. The combination of planning and random events ensures a unique experience with every session.
